@@ -1,4 +1,4 @@
-![I am a Front-End Web Developer with React](	https://media-exp1.licdn.com/dms/image/C5616AQHnJ_…eta&t=BWDJX2169qoYKiAVc3omc9u9FtQknNgyo1m65aS4Cro)
+![I am a Front-End Web Developer with React](	)
 
 ### Hi there 👋, My name is Mohammad Raihan
 #### I am a Front-End Web Developer with React
