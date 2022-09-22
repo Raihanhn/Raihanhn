@@ -1,4 +1,3 @@
-![I am a Front-End Web Developer with React](https://twitter.com/Raihanhn/header_photo	)
 
 ### Hi there 👋, My name is Mohammad Raihan
 #### I am a Front-End Web Developer with React
