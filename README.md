@@ -24,8 +24,6 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Raihanhn)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Raihanhn)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Raihanhn)  
