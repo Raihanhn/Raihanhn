@@ -30,4 +30,4 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Raihanhn)  
 
-![Profile views](https://camo.githubusercontent.com/Raihanhn)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raihanhn&label=Profile%20views&color=0e75b6&style=flat" alt="raihanhn" /> </p>
