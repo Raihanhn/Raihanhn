@@ -36,6 +36,9 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/threejs.png" width="40" title="Three.js"/>
 
 </p>
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bazel/bazel-original.svg" width="25"/> Tools & Technologies
+
           
 
 - 🔭 I’m currently working on this page. 
