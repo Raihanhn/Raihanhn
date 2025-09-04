@@ -33,7 +33,7 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/tinacms.png" width="40" title="TinaCMS"/>
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/hugo.png" width="40" title="Hugo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" title="Markdown"/>
-
+  <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/threejs.png" width="40" title="Three.js"/>
 
 </p>
           
