@@ -39,7 +39,7 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bazel/bazel-original.svg" width="30"/> Tools & Technologies
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bazel/bazel-original.svg" width="20"/> IDE / Code Editors
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bazel/bazel-original.svg" width="15"/> IDE / Code Editors
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android Studio"/>
