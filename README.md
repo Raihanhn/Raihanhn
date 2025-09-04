@@ -33,8 +33,12 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" title="Bootstrap"/>
   <!-- Shadcn (use a badge since no official icon) -->
   <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white" width="80" title="Shadcn"/>
+  <img src="https://ui.shadcn.com/favicon.ico" width="40" title="Shadcn UI"/>
+
   <!-- DaisyUI (use badge) -->
   <img src="https://img.shields.io/badge/DaisyUI-FF69B4?style=for-the-badge&logo=daisyui&logoColor=white" width="80" title="DaisyUI"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/daisyui/master/src/docs/static/images/logo-192.png" width="40" title="DaisyUI"/>
+
   <!-- SCSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="SCSS"/>
   <!-- Node.js -->
