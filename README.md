@@ -19,7 +19,7 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="TailwindCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" title="Material UI"/>
-  <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/bootstrap.png" width="50" title="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/bootstrap.png" width="45" title="Bootstrap"/>
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/daisyui.png" width="40" title="DaisyUI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="SCSS"/>
   <img src="https://ui.shadcn.com/favicon.ico" width="36" title="Shadcn UI"/>
