@@ -29,9 +29,10 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" title="Markdown"/>
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/reactbricks.png" width="34" title="ReactBricks"/>
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/tinacms.png" width="40" title="TinaCMS"/>
+  <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/hugo.png" width="40" title="Hugo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" title="Markdown"/>
 
 
 </p>
