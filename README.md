@@ -30,6 +30,8 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
   <!-- TinaCMS -->
 <img src="https://img.shields.io/badge/TinaCMS-FF5733?style=for-the-badge&logo=tinacms&logoColor=white" width="80" title="TinaCMS"/>
+<img src="https://raw.githubusercontent.com/tinacms/tinacms/main/media/tina-logo.svg" width="40" title="TinaCMS"/>
+
 <!-- React Bricks -->
 <img src="https://img.shields.io/badge/React%20Bricks-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="80" title="React Bricks"/>
 
