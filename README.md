@@ -28,7 +28,7 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
-  <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/tinacms" width="80" title="TinaCms"/>
+  <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/tinacms" width="40" title="TinaCms"/>
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/reactbricks.png" width="40" title="ReactBricks"/>
 
 </p>
