@@ -30,6 +30,8 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/reactbricks.png" width="34" title="ReactBricks"/>
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/tinacms.png" width="40" title="TinaCMS"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="80" title="React Native"/>
+
 
 </p>
           
