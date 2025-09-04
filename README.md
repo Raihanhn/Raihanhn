@@ -6,7 +6,7 @@ I am a professional React developer. I can develop any website using React. All 
 
 Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="25"/> Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="30"/> Tech Stack
 
 <p align="left">
  
@@ -37,7 +37,7 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
 
 </p>
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bazel/bazel-original.svg" width="25"/> Tools & Technologies
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bazel/bazel-original.svg" width="30"/> Tools & Technologies
 
           
 
