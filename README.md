@@ -22,12 +22,17 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" title="Bootstrap"/>
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/daisyui.png" width="40" title="DaisyUI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="SCSS"/>
-  <img src="https://ui.shadcn.com/favicon.ico" width="35" title="Shadcn UI"/>
+  <img src="https://ui.shadcn.com/favicon.ico" width="36" title="Shadcn UI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
+  <!-- TinaCMS -->
+<img src="https://img.shields.io/badge/TinaCMS-FF5733?style=for-the-badge&logo=tinacms&logoColor=white" width="80" title="TinaCMS"/>
+<!-- React Bricks -->
+<img src="https://img.shields.io/badge/React%20Bricks-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="80" title="React Bricks"/>
+
 </p>
           
 
