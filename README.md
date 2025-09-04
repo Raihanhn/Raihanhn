@@ -21,10 +21,9 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" title="Material UI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" title="Bootstrap"/>
   <img src="https://ui.shadcn.com/favicon.ico" width="40" title="Shadcn UI"/>
-  <img src="https://avatars.githubusercontent.com/u/85660926?s=200&v=4" width="40" title="DaisyUI"/>
-  <img src="https://avatars.githubusercontent.com/u/85660926?s=200&v=4" width="40" title="DaisyUI"/>
-  <img src="https://daisyui.com/blog/daisyui-logo/logo.svg" width="40" title="daisyUI"/>
-   <img src="https://raw.githubusercontent.com/username/repo/main/assets/daisyui.svg" width="40" title="DaisyUI"/>
+
+   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/daisyui.svg" width="40" title="DaisyUI"/>
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="SCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
