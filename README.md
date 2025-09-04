@@ -40,9 +40,12 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bazel/bazel-original.svg" width="30"/> Tools & Technologies
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bazel/bazel-original.svg" width="20"/> Tools & Technologies
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android Studio"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Brackets_icon.svg" width="40" title="Brackets"/>
+
+</p>
 
 
           
