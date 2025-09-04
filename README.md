@@ -46,12 +46,12 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
 <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/brackets.png" width="40" title="Brackets"/>
 </p>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bazel/bazel-original.svg" width="15"/> IDE / Version Control
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="15"/> Version Control
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/
 </p>
-
+          
 
           
 
