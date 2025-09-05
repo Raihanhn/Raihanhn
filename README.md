@@ -101,11 +101,8 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
 ### 🏅 Contributions & Awards
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raihanhn)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true)   
-
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+<p align="center" style="display: flex; justify-content: center; gap: 20 px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" 
        width="45%" 
        style="vertical-align: top;" />
