@@ -63,12 +63,11 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="15"/> AI Development Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chatgpt/chatgpt-original.svg" width="40" title="ChatGPT"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" width="40" title="Cursor AI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gemini/gemini-original.svg" width="40" title="Gemini"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grok/grok-original.svg" width="40" title="Grok"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/deepseek/deepseek-original.svg" width="40" title="DeepSeek"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ideogram/ideogram-original.svg" width="40" title="Ideogram"/>
+ <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/chatgpt.png" width="40" title="Chatgpt"/>
+ <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/cursor.png" width="40" title="CursorAI"/>
+ <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/deepseek.png" width="40" title="Deepseek"/>
+ <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/gemini.png" width="40" title="Gemini"/>
+ <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/grok.png" width="40" title="Gork"/>
 </p>
 
 
