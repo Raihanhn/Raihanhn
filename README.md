@@ -1,5 +1,5 @@
 <h1 align="center">♠♤♣☁☀☄☂➵➶➹⟿ Hi there, I'm <span style="color:#4ade80;">Mohammad Raihan</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | React, Next.js, React Native | 3+ Years Experience</h3>
+<h3 align="center">🚀 Full-Stack Developer | React, Next.js, React Native | 3+ Years Experience ☄</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=I+build+modern+web+%26+mobile+apps;Passionate+about+UI%2FUX+and+performance;Always+learning+new+technologies;Turning+ideas+into+reality+with+code" alt="Typing animation" />
@@ -8,14 +8,14 @@
 I’m a passionate **Full-Stack Developer** with over **3 years of experience** building responsive, scalable, and high-performance web and mobile applications.I specialize in modern JavaScript frameworks, UI/UX design, and cross-platform solutions, always focusing on clean code, performance, and user experience.  
 
 ✨ **What I Do Best:**  
-- Build **responsive & dynamic web applications** using React, Next.js, and TypeScript.  
-- Develop **cross-platform mobile apps** with React Native for consistent UI/UX.  
-- Design **scalable backend APIs** using Node.js, Express.js, and MongoDB/MySQL.  
-- Create **3D interactive experiences** with Three.js for engaging web apps.  
-- Apply modern **UI frameworks** like Tailwind CSS, Material UI, and Shadcn UI for stunning interfaces.  
-- Deploy and manage applications on **Vercel, Netlify, and cPanel**.  
+➶ Build **responsive & dynamic web applications** using React, Next.js, and TypeScript.  
+➶ Develop **cross-platform mobile apps** with React Native for consistent UI/UX.  
+➶ Design **scalable backend APIs** using Node.js, Express.js, and MongoDB/MySQL.  
+➶ Create **3D interactive experiences** with Three.js for engaging web apps.  
+➶ Apply modern **UI frameworks** like Tailwind CSS, Material UI, and Shadcn UI for stunning interfaces.  
+➶ Deploy and manage applications on **Vercel, Netlify, and cPanel**.  
 
-💡 I enjoy solving complex problems, learning new technologies, and delivering digital solutions that make an impact.  
+☁ I enjoy solving complex problems, learning new technologies, and delivering digital solutions that make an impact.  
 I believe in writing **clean, maintainable, and scalable code** that balances performance and design.  
 
 ---
