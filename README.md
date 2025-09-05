@@ -21,7 +21,7 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
   <a href="https://www.linkedin.com/in/raihan20" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=rgba(10,102,194,0.8)" alt="LinkedIn"/>
   </a>
-  <a href="raihanhn20@gmail.com">
+  <a href="mailto:raihanhn20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=rgba(209,72,54,0.8)" alt="Gmail"/>
   </a>
 </p>
