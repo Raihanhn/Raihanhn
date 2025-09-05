@@ -1,8 +1,4 @@
 <h1 align="center">🌕 Hi there, I'm <span style="color:#4ade80;">Mohammad Raihan</span></h1>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px">
-<h1 align="center" style="margin-bottom:0;">🌕 Hi there, I'm <span style="color:#4ade80;">Mohammad Raihan</span></h1>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px">
-
 <h3 align="center">♞ Full-Stack Developer | React, Next.js, React Native | 3+ Years Experience ☄</h3>
 
 <p align="center">
