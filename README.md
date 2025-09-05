@@ -17,6 +17,17 @@ I’m a passionate **Full-Stack Developer** with over **3 years of experience** 
 
 ☁ I enjoy solving complex problems, learning new technologies, and delivering digital solutions that make an impact.  
 I believe in writing **clean, maintainable, and scalable code** that balances performance and design.  
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=rgba(10,102,194,0.8)" alt="LinkedIn"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=rgba(209,72,54,0.8)" alt="Gmail"/>
+  </a>
+</p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px">
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="30"/> Tech Stack
 <p align="left">
