@@ -113,6 +113,11 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
 | ------------- | ------------ |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true) |
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Raihanhn)  
 
