@@ -66,8 +66,8 @@ Skills: REACT / JS / HTML / CSS / C / JAVA / MACHINE LEARNING
  <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/chatgpt.png" width="35" title="Chatgpt"/>
  <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/cursor.png" width="40" title="CursorAI"/>
  <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/deepseek.png" width="40" title="Deepseek"/>
- <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/gemini.png" width="50" title="Gemini"/>
  <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/grok.png" width="40" title="Gork"/>
+ <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/gemini.png" width="50" title="Gemini"/>
 </p>
 
 
