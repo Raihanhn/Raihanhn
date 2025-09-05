@@ -18,8 +18,6 @@ I’m a passionate **Full-Stack Developer** with over **3 years of experience** 
 ☁ I enjoy solving complex problems, learning new technologies, and delivering digital solutions that make an impact.  
 I believe in writing **clean, maintainable, and scalable code** that balances performance and design.  
 
----
-
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="30"/> Tech Stack
 
 <p align="left">
