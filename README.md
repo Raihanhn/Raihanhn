@@ -120,7 +120,7 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
   <table>
     <tr>
       <td valign="top" width="45%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="100%"/>
       </td>
       <td valign="top" width="55%">
         <p>
