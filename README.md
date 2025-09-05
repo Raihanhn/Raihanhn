@@ -2,8 +2,7 @@
 ## Hi there 👋, I'm Mohammad Raihan  
 #### 🚀 Full-Stack Developer | React, Next.js, React Native | 3+ Years of Experience  
 
-I’m a passionate **Full-Stack Developer** with over **3 years of experience** building responsive, scalable, and high-performance web and mobile applications.  
-I specialize in **modern JavaScript frameworks, UI/UX design, and cross-platform solutions**, always focusing on clean code, performance, and user experience.  
+I’m a passionate **Full-Stack Developer** with over **3 years of experience** building responsive, scalable, and high-performance web and mobile applications.I specialize in modern JavaScript frameworks, UI/UX design, and cross-platform solutions, always focusing on clean code, performance, and user experience.  
 
 ✨ **What I Do Best:**  
 - Build **responsive & dynamic web applications** using React, Next.js, and TypeScript.  
@@ -17,39 +16,6 @@ I specialize in **modern JavaScript frameworks, UI/UX design, and cross-platform
 I believe in writing **clean, maintainable, and scalable code** that balances performance and design.  
 
 ---
-
-### 🛠️ Tech Expertise  
-
-**Frontend:**  
-React, Next.js, Redux, TypeScript, JavaScript (ES6+), Tailwind CSS, Material UI, DaisyUI, Shadcn UI, SCSS, Bootstrap  
-
-**Mobile:**  
-React Native (cross-platform apps)  
-
-**Backend & Databases:**  
-Node.js, Express.js, MongoDB, MySQL, Firebase  
-
-**Other Skills:**  
-Three.js (3D Web), Markdown, Hugo, CMS (ReactBricks, TinaCMS), Git & GitHub, Agile Development  
-
----
-
-### 🌟 My Core Values  
-✅ Write clean and scalable code  
-✅ Prioritize performance and responsive design  
-✅ Deliver user-friendly, accessible, and aesthetic UI/UX  
-✅ Always keep learning and adapting to new technologies  
-
----
-
-### 📫 Let’s Connect  
-- 💬 Ask me about **Web Development | Mobile Apps | Frontend & Full-Stack Development**  
-- 📧 Reach me at: **raihanhn20@gmail.com**  
-- 🌐 Portfolio coming soon  
-
-[![GitHub followers](https://img.shields.io/github/followers/Raihanhn?label=Follow%20Me&style=social)](https://github.com/Raihanhn)  
-
-
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="30"/> Tech Stack
 
