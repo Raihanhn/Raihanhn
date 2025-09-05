@@ -17,11 +17,9 @@ I’m a passionate **Full-Stack Developer** with over **3 years of experience** 
 
 ☁ I enjoy solving complex problems, learning new technologies, and delivering digital solutions that make an impact.  
 I believe in writing **clean, maintainable, and scalable code** that balances performance and design.  
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1px">
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="30"/> Tech Stack
-
 <p align="left">
- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
@@ -46,7 +44,6 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/hugo.png" width="40" title="Hugo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" title="Markdown"/>
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/threejs.png" width="40" title="Three.js"/>
-
 </p>
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bazel/bazel-original.svg" width="30"/> Tools & Technologies
