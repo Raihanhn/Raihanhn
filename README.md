@@ -103,9 +103,16 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true)   
 
-![GitHub metrics](https://metrics.lecoq.io/Raihanhn)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true" width="45%" />
+</p>
+| Top Languages | GitHub Stats |
+| ------------- | ------------ |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true) |
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Raihanhn)  
 
