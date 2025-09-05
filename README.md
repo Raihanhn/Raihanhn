@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=I+build+modern+web+%26+mobile+apps;Passionate+about+UI%2FUX+and+performance;Always+learning+new+technologies;Turning+ideas+into+reality+with+code" alt="Typing animation" />
 </p>
 
-
 I’m a passionate **Full-Stack Developer** with over **3 years of experience** building responsive, scalable, and high-performance web and mobile applications.I specialize in modern JavaScript frameworks, UI/UX design, and cross-platform solutions, always focusing on clean code, performance, and user experience.  
 
 ✨ **What I Do Best:**  
