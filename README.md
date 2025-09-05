@@ -109,13 +109,12 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true" width="45%" />
 </p>
-| Top Languages | GitHub Stats |
-| ------------- | ------------ |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true) |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="45%" style="display:inline-block; vertical-align:top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="45%" style="display:inline-block; vertical-align:top;" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 
 
