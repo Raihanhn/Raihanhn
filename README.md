@@ -18,10 +18,10 @@ I’m a passionate **Full-Stack Developer** with over **3 years of experience** 
 ☁ I enjoy solving complex problems, learning new technologies, and delivering digital solutions that make an impact.  
 I believe in writing **clean, maintainable, and scalable code** that balances performance and design.  
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-username" target="_blank">
+  <a href="https://www.linkedin.com/in/raihan20" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=rgba(10,102,194,0.8)" alt="LinkedIn"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="raihanhn20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=rgba(209,72,54,0.8)" alt="Gmail"/>
   </a>
 </p>
