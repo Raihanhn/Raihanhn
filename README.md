@@ -102,21 +102,7 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raihanhn)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p align="center" style="display: flex; justify-content: center; gap: 20 px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" 
-       width="45%" 
-       style="vertical-align: top;" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" 
-       width="45%" 
-       style="vertical-align: top;" />
-</p>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Raihanhn&theme=dark&background=0d1117&ring=58a6ff&fire=ff4500&currStreakLabel=58a6ff&sideNums=c9d1d9&currStreakNum=58a6ff&sideLabels=ffffff&dates=8b949e)
-
-
 <div align="left">
-
   <table>
     <tr>
       <td valign="top" width="45%">
@@ -132,14 +118,7 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
       </td>
     </tr>
   </table>
-
 </div>
-
-
-
-
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihanhn&label=Profile%20views&color=0e75b6&style=flat" alt="raihanhn" /> </p>
