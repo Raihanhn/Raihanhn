@@ -97,6 +97,7 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" title="Netlify"/>
 </p>
 
+### 🏅 Contributions & Awards
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raihanhn)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn)](https://github.com/anuraghazra/github-readme-stats)
