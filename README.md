@@ -112,8 +112,7 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
        style="vertical-align: top;" />
 </p>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Raihanhn&theme=dark&background=0d1117&ring=58a6ff&fire=ff4500&currStreakLabel=58a6ff&sideNums=c9d1d9&currStreakNum=58a6ff&sideLabels=ffffff&dates=8b949e)
 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Raihanhn)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihanhn&label=Profile%20views&color=0e75b6&style=flat" alt="raihanhn" /> </p>
