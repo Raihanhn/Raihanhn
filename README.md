@@ -124,8 +124,3 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raihanhn&label=Profile%20views&color=0e75b6&style=flat" alt="raihanhn" /> </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=raihanhn&label=Profile%20views&color=c9d1d9&label_color=0d1117&style=flat" alt="raihanhn" width="100%" style="transform: scaleY (0.7); transform-origin: top; border-radius: "6px" />
-</p>
-
