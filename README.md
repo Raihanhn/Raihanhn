@@ -106,7 +106,7 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
   <table>
     <tr>
       <td valign="top" width="45%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn&theme=dark&bg_color=01f9c6&title_color=58a6ff&text_color=c9d1d9" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn&theme=dark&bg_color=01f9c6&title_color=ffffff&text_color=ffffff" width="100%"/>
          <p align="left">
         <img src="https://komarev.com/ghpvc/?username=raihanhn&label=Profile%20views&color=000000&label_color=000000&style=flat" alt="raihanhn" width="100%" style="transform: scaleY (0.7); transform-origin: top; border-radius: "6px" />
         </p>
