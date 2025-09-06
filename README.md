@@ -116,7 +116,7 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raihanhn&theme=dark&background=21AFF0&ring=FFD700&fire=FF4500&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" width="100%"/>
         </p>
         <p>
-          <img src="https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true&theme=dark&bg_color=fffede&title_color=ffffff&icon_color=ffffff&text_color=ffffff" width="100%"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true&theme=dark&bg_color=fffede&title_color=ff00ff&icon_color=ff00ff&text_color=ff00ff" width="100%"/>
         </p>
       </td>
     </tr>
