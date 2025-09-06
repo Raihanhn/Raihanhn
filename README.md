@@ -113,7 +113,6 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
       </td>
       <td valign="top" width="55%">
         <p>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raihanhn&theme=dark&background=0d1117&ring=58a6ff&fire=ff4500&currStreakLabel=58a6ff&sideNums=c9d1d9&currStreakNum=58a6ff&sideLabels=ffffff&dates=8b949e" width="100%"/>
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raihanhn&theme=dark&background=21AFF0&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" width="100%"/>
 
         </p>
