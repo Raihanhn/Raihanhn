@@ -54,6 +54,7 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/hugo.png" width="40" title="Hugo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" title="Markdown"/>
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/threejs.png" width="40" title="Three.js"/>
+  <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/beaver-head.png" width="40" title="DBeaver"/>
   
 </p>
 
