@@ -55,7 +55,7 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" title="Markdown"/>
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/threejs.png" width="40" title="Three.js"/>
   <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/beaver-head.png" width="40" title="DBeaver"/>
-  
+  <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/HeidiSQL_logo_image.png" width="40" title="HeidiSQL"/>  
 </p>
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bazel/bazel-original.svg" width="30"/> Tools & Technologies
