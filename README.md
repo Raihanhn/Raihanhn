@@ -96,7 +96,7 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="15"/> Web Hosting & Deployment
 <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpanel/cpanel-original.svg" width="40" title="cPanel"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="35" title="Vercel"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30" title="Vercel"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" title="Netlify"/>
  <img src="https://raw.githubusercontent.com/raihanhn/raihanhn/main/assets/hostinger.svg" width="40" title="Hostinger"/>
 </p>
