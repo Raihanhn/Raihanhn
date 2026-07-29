@@ -103,28 +103,20 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
 </p>
 
 ### 🏅 Contributions & Awards
-[![trophy](https://github-profile-trophy.vercel.app/?username=Raihanhn)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <div align="left">
   <table>
     <tr>
-      <td valign="top" width="45%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn&theme=dark&bg_color=6D7B8D&title_color=ffffff&text_color=ffffff" width="100%"/>
-         <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=raihanhn&label=Profile%20views&color=228B22&label_color=34282c&style=flat" alt="raihanhn" width="100%" style="transform: scaleY (0.7); transform-origin: top; border-radius: "6px" />
-        </p>
+      <td valign="top" width="50%">
+        <img src="assets/top-langs.svg" width="100%" alt="Top Languages"/>
+        <br/>
+        <img src="https://komarev.com/ghpvc/?username=raihanhn&label=Profile+Views&color=4ade80&style=flat-square" alt="Profile Views" />
       </td>
-      <td valign="top" width="55%">
-        <p>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raihanhn&theme=dark&background=21AFF0&ring=FFD700&fire=FF4500&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" width="100%"/>
-        </p>
-        <p>
-          <img src="https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true&theme=dark&bg_color=fffede&title_color=006400&icon_color=006400&text_color=006400" width="100%"/>
-        </p>
+      <td valign="top" width="50%">
+        <img src="assets/streak.svg" width="100%" alt="GitHub Streak"/>
+        <br/>
+        <img src="assets/stats.svg" width="100%" alt="GitHub Stats"/>
       </td>
     </tr>
   </table>
 </div>
-
-
