@@ -23,8 +23,12 @@ jobs:
       - name: Fetch Streak card
         run: curl -sf "https://streak-stats.demolab.com/?user=Raihanhn&theme=dark&hide_border=true&background=0D1117&ring=4ADE80&fire=21AFF0&currStreakLabel=4ADE80" -o assets/streak.svg
 
-      - name: Fetch Trophy card
-        run: curl -sf "https://github-profile-trophy.vercel.app/?username=Raihanhn&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" -o assets/trophy.svg
+      - name: Generate Trophy card
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Raihanhn
+          output_path: assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |
