@@ -27,7 +27,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Raihanhn
-          output_path: assets/trophy.svg
+          file: assets/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
