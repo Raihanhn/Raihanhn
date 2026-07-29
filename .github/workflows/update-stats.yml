@@ -2,7 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,10 +15,10 @@ jobs:
         run: mkdir -p assets
 
       - name: Fetch Top Langs card
-        run: curl -sf "https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanhn&theme=dracula&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=FFFFFF&icon_color=21AFF0&langs_count=8" -o assets/top-langs.svg
+        run: curl -sf "https://github-stats-extended-frontend-fawn.vercel.app/api/top-langs/?username=Raihanhn&theme=dracula&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=FFFFFF&icon_color=21AFF0&langs_count=8" -o assets/top-langs.svg
 
       - name: Fetch Stats card
-        run: curl -sf "https://github-readme-stats.vercel.app/api?username=Raihanhn&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=21AFF0&text_color=FFFFFF" -o assets/stats.svg
+        run: curl -sf "https://github-stats-extended-frontend-fawn.vercel.app/api?username=Raihanhn&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=21AFF0&text_color=FFFFFF" -o assets/stats.svg
 
       - name: Fetch Streak card
         run: curl -sf "https://streak-stats.demolab.com/?user=Raihanhn&theme=dark&hide_border=true&background=0D1117&ring=4ADE80&fire=21AFF0&currStreakLabel=4ADE80" -o assets/streak.svg
