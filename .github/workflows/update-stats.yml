@@ -8,6 +8,8 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -20,8 +22,12 @@ jobs:
       - name: Fetch Stats card
         run: curl -sf "https://github-stats-extended-frontend-fawn.vercel.app/api?username=Raihanhn&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=21AFF0&text_color=FFFFFF" -o assets/stats.svg
 
-      - name: Fetch Streak card
-        run: curl -sf "https://streak-stats.demolab.com/?user=Raihanhn&theme=dark&hide_border=true&background=0D1117&ring=4ADE80&fire=21AFF0&currStreakLabel=4ADE80" -o assets/streak.svg
+      - name: Generate Streak card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=Raihanhn&theme=dark&hide_border=true&background=0D1117&ring=4ADE80&fire=21AFF0&currStreakLabel=4ADE80
+          path: assets/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Trophy card
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
