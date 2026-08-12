@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mohammad Raihan&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 10, Total Commits  (last year) : 582, Total PRs: 8, Total Issues: 0, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 10, Total Commits  (last year) : 582, Total PRs: 9, Total Issues: 0, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 191.23951647700423;
+        stroke-dashoffset: 190.4652976938526;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >8</text>
+      >9</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
