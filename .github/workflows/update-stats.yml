@@ -1,10 +1,8 @@
 name: Update GitHub Stats
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 jobs:
   update-stats:
     runs-on: ubuntu-latest
@@ -12,22 +10,33 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-
       - name: Create assets folder
         run: mkdir -p assets
 
       - name: Fetch Top Langs card
-        run: curl -sf "https://github-stats-extended-frontend-fawn.vercel.app/api/top-langs/?username=Raihanhn&theme=dracula&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=FFFFFF&icon_color=21AFF0&langs_count=8" -o assets/top-langs.svg
+        run: |
+          curl -sf "https://github-stats-extended-frontend-fawn.vercel.app/api/top-langs/?username=Raihanhn&theme=dracula&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=FFFFFF&icon_color=21AFF0&langs_count=8" -o /tmp/top-langs.svg
+          if grep -q "rate limit" /tmp/top-langs.svg || ! grep -q "<svg" /tmp/top-langs.svg; then
+            echo "⚠️ Top-langs fetch failed or rate-limited, keeping old file"
+          else
+            cp /tmp/top-langs.svg assets/top-langs.svg
+          fi
 
       - name: Fetch Stats card
-        run: curl -sf "https://github-stats-extended-frontend-fawn.vercel.app/api?username=Raihanhn&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=21AFF0&text_color=FFFFFF" -o assets/stats.svg
+        run: |
+          curl -sf "https://github-stats-extended-frontend-fawn.vercel.app/api?username=Raihanhn&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=21AFF0&text_color=FFFFFF" -o /tmp/stats.svg
+          if grep -q "rate limit" /tmp/stats.svg || ! grep -q "<svg" /tmp/stats.svg; then
+            echo "⚠️ Stats fetch failed or rate-limited, keeping old file"
+          else
+            cp /tmp/stats.svg assets/stats.svg
+          fi
 
       - name: Generate Streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=Raihanhn&theme=dark&hide_border=true&background=0D1117&ring=4ADE80&fire=21AFF0&currStreakLabel=4ADE80
           path: assets/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_1 }}
 
       - name: Commit and push if changed
         run: |
