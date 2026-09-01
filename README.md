@@ -104,7 +104,7 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
 
 ### 🏅 Contributions & Awards
 <div align="left">
-  <img src="assets/metrics.svg" width="100%" alt="GitHub Metrics"/>
+  <img src="assets/metrics.svg" width="80%" alt="GitHub Metrics"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=raihanhn&label=Profile+Views&color=4ade80&style=flat-square" alt="Profile Views" />
 </div>
