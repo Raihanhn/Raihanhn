@@ -13,18 +13,20 @@ jobs:
       - name: Create assets folder
         run: mkdir -p assets
 
-      - name: Generate Metrics (stats + top-langs)
-        uses: lowlighter/metrics@latest
+      - name: Fetch Stats card
+        run: curl -sf "https://github-readme-stats-yourname.vercel.app/api?username=Raihanhn&show_icons=true&theme=dracula&hide_border=true" -o assets/stats.svg
+
+      - name: Fetch Top Langs card
+        run: curl -sf "https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=Raihanhn&theme=dracula&hide_border=true&layout=compact" -o assets/top-langs.svg
+
+      - name: Generate Streak card
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          token: ${{ secrets.PAT_1 }}
           user: Raihanhn
-          template: classic
-          config_theme: dark
-          base: header, activity, community, repositories
-          plugin_languages: yes
-          plugin_languages_limit: 6
-          config_output: svg
-          filename: assets/metrics.svg
+          theme: dark
+          hide_border: true
+        env:
+          path: assets/streak.svg
 
       - name: Commit and push if changed
         run: |
