@@ -103,20 +103,8 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
 </p>
 
 ### 🏅 Contributions & Awards
-
 <div align="left">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="assets/top-langs.svg" width="100%" alt="Top Languages"/>
-        <br/>
-        <img src="https://komarev.com/ghpvc/?username=raihanhn&label=Profile+Views&color=4ade80&style=flat-square" alt="Profile Views" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="assets/streak.svg" width="100%" alt="GitHub Streak"/>
-        <br/>
-        <img src="assets/stats.svg" width="100%" alt="GitHub Stats"/>
-      </td>
-    </tr>
-  </table>
+  <img src="assets/metrics.svg" width="100%" alt="GitHub Metrics"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=raihanhn&label=Profile+Views&color=4ade80&style=flat-square" alt="Profile Views" />
 </div>
