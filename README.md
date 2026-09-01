@@ -108,6 +108,8 @@ I believe in writing **clean, maintainable, and scalable code** that balances pe
     <tr>
       <td valign="top" width="50%">
         <img src="assets/top-langs.svg" width="100%" alt="Top Languages"/>
+        <br/>
+        <img src="https://komarev.com/ghpvc/?username=raihanhn&label=Profile+Views&color=4ade80&style=flat-square" alt="Profile Views" />
       </td>
       <td valign="top" width="50%">
         <img src="assets/streak.svg" width="100%" alt="GitHub Streak"/>
