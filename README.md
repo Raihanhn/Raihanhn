@@ -12,7 +12,7 @@ I’m a passionate **Full-Stack Developer** with over **4+ years of experience**
 ➵ Design **scalable backend APIs** using Node.js, Express.js, and MongoDB/MySQL.  
 ➵ Create **3D interactive experiences** with Three.js for engaging web apps.  
 ➵ Apply modern **UI frameworks** like Tailwind CSS, Material UI, and Shadcn UI for stunning interfaces.  
-➵ Deploy and manage applications on **Vercel, Netlify, and cPanel**.  
+➵ Deploy and manage applications on **Vercel, Netlify, Hostinger and cPanel**.  
 
 ☁ I enjoy solving complex problems, learning new technologies, and delivering digital solutions that make an impact.  
 I believe in writing **clean, maintainable, and scalable code** that balances performance and design.  
